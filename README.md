@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/darknick40/DN-MD">
-    <img alt="Dark Nick docs" height="350" src="https://i.im.ge/2025/11/24/4Io6MJ.329338.md.jpeg">
+    <img alt="Dark Nick docs" height="350" src="">
   </a>
 </p>
     
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/darknick40"><img title="Author" src="https://whatsapp.com/channel/0029Vb6bG6IFCCocc4w8yd3s"></a>
+<a href="https://github.com/darknick40"><img title="" src=""></a>
 <p/>
 
 <p align="center">
