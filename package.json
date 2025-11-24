@@ -1,5 +1,5 @@
 {
-  "name": "CypherX",
+  "name": "DN BOT(DARK NICK)",
   "version": "1.8.3",
   "description": "The best Whatsapp bot",
   "main": "index.js",
@@ -14,7 +14,7 @@
       "restart": "pkill -f node && npm start",
       "test": "echo \"Error: no test specified\" && exit 1"
    },
-  "author": "Tylor",
+  "author": "NICK",
   "dependencies": {
         "adm-zip": "^0.5.16",
         "better-sqlite3": "^12.2.0",
